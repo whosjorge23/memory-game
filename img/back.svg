@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#ECF0F1" x="0" y="0" width="100" height="100"></rect>
+        <polygon id="Rectangle" fill="#E79E2D" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 0 50 50 0 100"></polygon>
+        <polygon id="Rectangle" fill="#FFCF00" points="0 0 100 0 50 50 0 100"></polygon>
+        <polygon id="Rectangle" fill="#E79E2D" points="0 0 50 0 25 25 0 50"></polygon>
+        <polygon id="Rectangle" fill="#FFCF00" transform="translate(75.000000, 75.000000) scale(-1, -1) translate(-75.000000, -75.000000) " points="50 50 100 50 75 75 50 100"></polygon>
+        <text id="Memory-Game" font-family="Aldrich-Regular, Aldrich" font-size="22" font-weight="normal" letter-spacing="0.62857151" fill="#FFFFFF">
+            <tspan x="3.16897297" y="41">Memory</tspan>
+            <tspan x="17.4132671" y="62">Game</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
+
+.credit {
+    margin-top: 220px;
+}
